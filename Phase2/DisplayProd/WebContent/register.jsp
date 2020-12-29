@@ -7,7 +7,7 @@
 <title>Product Registration</title>
 </head>
 <body>
-<form method="post" action="AddClass">
+<form method="post" action="registersuccess.jsp">
 Name:<input type="text" name="name"><br/>
 Amount:<input type="text" name="amount"><br/>
 <button type="submit">Register</button>
